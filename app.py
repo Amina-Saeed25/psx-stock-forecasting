@@ -3,8 +3,8 @@ import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.preprocessing import MinMaxScaler, StandardScaler
-from pmdarima import auto_arima
 from sklearn.linear_model import LogisticRegression
+# from pmdarima import auto_arima
 # from tensorflow.keras.models import Sequential
 # from tensorflow.keras.layers import LSTM, Dense
 # from sklearn.ensemble import RandomForestClassifier
